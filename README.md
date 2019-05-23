@@ -31,5 +31,7 @@ You create the world, let it breath and you don't know what you will see or when
 So, let's find out.
 
 #Create Game of Life.exe:  pyinstaller -w -i /path_of_icon /path_of_gameoflife.py
+
 #Create Game of Life.sh:  $ chmod +x /path_of_gameoflife.py
+
 #Run the Game of Life
