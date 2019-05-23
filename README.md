@@ -30,4 +30,6 @@ But the true magic and enthusiasm in this game is in it's dynamical nature and i
 You create the world, let it breath and you don't know what you will see or when it will end. Maybe after 4 iterations, maybe after 4 million iterations, maybe never.
 So, let's find out.
 
-#Just run the Game of Life.exe
+#Create Game of Life.exe:  pyinstaller -w -i /path_of_icon /path_of_gameoflife.py
+#Create Game of Life.sh:  $ chmod +x /path_of_gameoflife.py
+#Run the Game of Life
